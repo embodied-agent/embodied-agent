@@ -1,2 +1,3 @@
-# embodied-agent.github.io
-Hi there, we are embodied-agent group.
+# Hello, Embodied Agent !
+
+Hi there, we are embodied-agent team.
